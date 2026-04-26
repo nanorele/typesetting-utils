@@ -9,7 +9,7 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/go-text/typesetting-utils/generators/unicodedata/data"
+	"github.com/nanorele/typesetting-utils/generators/unicodedata/data"
 )
 
 func check(err error) {

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"go/types"
 
-	an "github.com/go-text/typesetting-utils/generators/binarygen/analysis"
-	gen "github.com/go-text/typesetting-utils/generators/binarygen/generator"
+	an "github.com/nanorele/typesetting-utils/generators/binarygen/analysis"
+	gen "github.com/nanorele/typesetting-utils/generators/binarygen/generator"
 )
 
 // ParsersForFile write the parsing functions required by [ana.Tables] in [dst]

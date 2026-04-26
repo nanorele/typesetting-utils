@@ -37,7 +37,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/go-text/typesetting-utils/generators"
+	"github.com/nanorele/typesetting-utils/generators"
 	"golang.org/x/net/html"
 	"golang.org/x/net/html/atom"
 	"golang.org/x/text/unicode/norm"

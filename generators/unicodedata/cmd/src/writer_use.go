@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/go-text/typesetting-utils/generators/unicodedata/cmd/src/packtab"
+	"github.com/nanorele/typesetting-utils/generators/unicodedata/cmd/src/packtab"
 )
 
 // The following values are copied from harfbuzz/ot_shape_use_machine.go

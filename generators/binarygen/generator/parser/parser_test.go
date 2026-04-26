@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/go-text/typesetting-utils/generators/binarygen/analysis"
-	gen "github.com/go-text/typesetting-utils/generators/binarygen/generator"
+	"github.com/nanorele/typesetting-utils/generators/binarygen/analysis"
+	gen "github.com/nanorele/typesetting-utils/generators/binarygen/generator"
 )
 
 func assertParseBlock(t *testing.T, code string) {

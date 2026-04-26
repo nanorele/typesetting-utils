@@ -8,7 +8,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/go-text/typesetting-utils/generators/binarygen/analysis"
+	"github.com/nanorele/typesetting-utils/generators/binarygen/analysis"
 )
 
 type Accu map[string]bool

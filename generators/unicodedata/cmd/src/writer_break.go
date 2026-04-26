@@ -6,7 +6,7 @@ import (
 	"sort"
 	"unicode"
 
-	"github.com/go-text/typesetting-utils/generators/unicodedata/cmd/src/packtab"
+	"github.com/nanorele/typesetting-utils/generators/unicodedata/cmd/src/packtab"
 	"golang.org/x/text/unicode/rangetable"
 )
 

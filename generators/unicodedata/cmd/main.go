@@ -6,7 +6,7 @@ import (
 	"flag"
 	"log"
 
-	"github.com/go-text/typesetting-utils/generators/unicodedata/cmd/src"
+	"github.com/nanorele/typesetting-utils/generators/unicodedata/cmd/src"
 )
 
 // CLI usage : go run generators/unicodedata/cmd/main.go ../typesetting

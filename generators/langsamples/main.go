@@ -15,7 +15,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/go-text/typesetting-utils/generators"
+	"github.com/nanorele/typesetting-utils/generators"
 )
 
 func check(err error) {

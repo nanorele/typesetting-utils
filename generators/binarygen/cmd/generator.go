@@ -8,9 +8,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/go-text/typesetting-utils/generators/binarygen/analysis"
-	"github.com/go-text/typesetting-utils/generators/binarygen/generator"
-	"github.com/go-text/typesetting-utils/generators/binarygen/generator/parser"
+	"github.com/nanorele/typesetting-utils/generators/binarygen/analysis"
+	"github.com/nanorele/typesetting-utils/generators/binarygen/generator"
+	"github.com/nanorele/typesetting-utils/generators/binarygen/generator/parser"
 )
 
 func main() {

@@ -7,7 +7,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/go-text/typesetting-utils/generators/unicodedata/cmd/src/packtab"
+	"github.com/nanorele/typesetting-utils/generators/unicodedata/cmd/src/packtab"
 )
 
 var arabicLigatures = []rune{

@@ -5,7 +5,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/go-text/typesetting-utils/generators/unicodedata/data"
+	"github.com/nanorele/typesetting-utils/generators/unicodedata/data"
 )
 
 var srcs sources
